@@ -30,6 +30,17 @@ A seguir temos um desafio para entender um pouco melhor sobre seu conhecimento. 
   * Você pode optar por utilizar uma biblioteca geradora de CPF's ou este site https://www.geradordecpf.org/ para obter o CPF.
 
 
+### Pré-Requisitos:
+* Documentar como rodamos a automação no README.MD;
+
+
+### Diferenciais/Extras
+
+* Uso de Cucumber
+* Uso de Page Object
+* Uso da linguagem Javascrip
+
+
 ## Case
 
 O seu time desenvolveu as seguintes Stories:
@@ -51,15 +62,6 @@ O seu time desenvolveu as seguintes Stories:
 * Não é possível adicionar produtos físicos e digitais no mesmo carrinho.
 
 
-### Pré-Requisitos:
-* Documentar como rodamos a automação no README.MD;
-
-
-### Diferenciais/Extras
-
-* Uso de Cucumber
-* Uso de Page Object
-* Uso da linguagem Javascrip
 
 
 
