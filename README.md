@@ -14,6 +14,21 @@ Excelência inegociável.
 
 #  Sobre o desafio
 
+A seguir temos um desafio para entender um pouco melhor sobre seu conhecimento. Para resolve-lo você deverá utilizar o site https://www.saraiva.com.br. 
+
+
+1. Desenvolva os casos de testes a partir das Stories apresentadas abaixo, descrevevndo ao menos um cenário feliz e um cenário alternativo para cada uma das Stories.
+  
+2. Descreva os erros encontrados no caso de teste da Story 002.
+
+3. Escreva o BDD de ao menos um casos de teste
+
+4. Faça a automação do cadastro na loja:
+
+  * Deverá utilizar um framework de testes a sua escolha;
+
+  * Você pode optar por utilizar uma biblioteca geradora de CPF's ou este site https://www.geradordecpf.org/ para obter o CPF.
+
 
 **Case**
 
@@ -36,26 +51,19 @@ Excelência inegociável.
 * Não é possível adicionar produtos físicos e digitais no mesmo carrinho.
 
 
+### Pré-Requisitos:
+* Documentar como rodamos a automação no README.MD;
 
-#### A partir de agora você utilizará o site https://www.saraiva.com.br para responder as questões abaixo:
 
+### Diferenciais/Extras
 
+* Uso de Cucumber
+* Uso de Page Object
+* Uso da linguagem Javascrip
 
-1. Desenvolva os casos de testes a partir das Stories apresentadas acima:
-
-  - Descreva ao menos um cenário feliz e um cenário alternativo para cada uma das Stories.
-
-2. Escreva o BDD de ao menos um casos de teste
-
-3. Faça a automação do cadastro na loja:
-
-  * Deverá utilizar um framework de testes a sua escolha;
-
-  * Você pode optar por utilizar uma biblioteca geradora de CPF's ou este site https://www.geradordecpf.org/ para obter o CPF.
-
-4. E descreva os erros encontrados no caso de teste da Story 002.
 
 
 > Gostaríamos muito que você nos enviasse o resultado em até 5 dias, mas se você precisar de mais tempo, basta nos avisar!
 Caso tenha alguma dúvida, o Tácio e a Sofia ficarão à disposição para auxiliar.
-E-mail: tacio.medeiros@vitta.me, sofia.oliveira@vitta.me
+E-mail: tacio.medeiros@vitta.me, sofia.oliveira@vitta.me 
+**Ao finalizar encaminhe seu resultado por email para o Tacio e para a Sofia**
