@@ -30,9 +30,9 @@ A seguir temos um desafio para entender um pouco melhor sobre seu conhecimento. 
   * Você pode optar por utilizar uma biblioteca geradora de CPF's ou este site https://www.geradordecpf.org/ para obter o CPF.
 
 
-**Case**
+## Case
 
-"O seu time desenvolveu as seguintes Stories"
+O seu time desenvolveu as seguintes Stories:
 
 **001** - Como a "pessoa física" gostaria de realizar o cadastro na loja:
 
