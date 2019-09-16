@@ -17,7 +17,7 @@ Excelência inegociável.
 A seguir temos um desafio para entender um pouco melhor sobre seu conhecimento. Para resolve-lo você deverá utilizar o site https://www.saraiva.com.br. 
 
 
-1. Desenvolva os casos de testes a partir das Stories apresentadas abaixo, descrevevndo ao menos um cenário feliz e um cenário alternativo para cada uma das Stories.
+1. Desenvolva os casos de testes a partir das Stories apresentadas abaixo, descrevendo ao menos um cenário feliz e um cenário alternativo para cada uma das Stories.
   
 2. Descreva os erros encontrados no caso de teste da Story 002.
 
@@ -38,7 +38,7 @@ A seguir temos um desafio para entender um pouco melhor sobre seu conhecimento. 
 
 * Uso de Cucumber
 * Uso de Page Object
-* Uso da linguagem Javascrip
+* Uso da linguagem Javascript
 
 
 ## Case
@@ -57,7 +57,8 @@ O seu time desenvolveu as seguintes Stories:
    
 * Ao lado da opção de livro físico gostaria de ter a nova opção;
 
-* Como os outros produtos da loja um livro digital deverá ter as descrições e características do produto;
+* Como os outros produtos da loja um livro digital deverá ter as 
+rições e características do produto;
 
 * Não é possível adicionar produtos físicos e digitais no mesmo carrinho.
 
