@@ -57,8 +57,7 @@ O seu time desenvolveu as seguintes Stories:
    
 * Ao lado da opção de livro físico gostaria de ter a nova opção;
 
-* Como os outros produtos da loja um livro digital deverá ter as 
-rições e características do produto;
+* Como os outros produtos da loja um livro digital deverá ter as descrições e características do produto;
 
 * Não é possível adicionar produtos físicos e digitais no mesmo carrinho.
 
