@@ -19,13 +19,13 @@ A seguir temos um desafio para entender um pouco melhor sobre seu conhecimento. 
 
 1. Desenvolva os casos de testes a partir das Stories apresentadas abaixo, descrevendo ao menos um cenário feliz e um cenário alternativo para cada uma das Stories.
   
-2. Descreva os erros encontrados no caso de teste da Story 002.
+2. Descreva os bugs encontrados no caso de teste da Story 002.
 
 3. Escreva o BDD de ao menos um casos de teste
 
 4. Faça a automação do cadastro na loja:
 
-  * Deverá utilizar um framework de testes a sua escolha;
+  * Deverá utilizar um framework de testes a sua escolha, desde que não seja um framework de reprodução/gravação.
 
   * Você pode optar por utilizar uma biblioteca geradora de CPF's ou este site https://www.geradordecpf.org/ para obter o CPF.
 
