@@ -66,6 +66,5 @@ O seu time desenvolveu as seguintes Stories:
 
 
 > Gostaríamos muito que você nos enviasse o resultado em até 5 dias, mas se você precisar de mais tempo, basta nos avisar!
-Caso tenha alguma dúvida, o Tácio e a Sofia ficarão à disposição para auxiliar.
-E-mail: tacio.medeiros@vitta.me, sofia.oliveira@vitta.me 
-**Ao finalizar encaminhe seu resultado por email para o Tacio e para a Sofia**
+
+
